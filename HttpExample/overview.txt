@@ -1,0 +1,1 @@
+https://text4fun4c4azure.azurewebsites.net/api/httpexample
