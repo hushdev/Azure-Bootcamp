@@ -1,0 +1,2 @@
+https://conferenceapi.azurewebsites.net/?format=json
+BaseURL https://apim-hello-world-321.azure-api.net
